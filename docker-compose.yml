@@ -42,4 +42,4 @@ volumes:
     
 networks:
   springappnetwork:
-    driver: bridge
+    driver: overlay
